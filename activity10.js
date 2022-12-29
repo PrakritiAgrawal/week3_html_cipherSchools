@@ -45,3 +45,4 @@ let methodtwo = document.querySelector("main p").classList.remove("newclass");
 
 let methodthree = document
   .querySelector("main p")
+  .classList.replace("newclass", "oldclass");
